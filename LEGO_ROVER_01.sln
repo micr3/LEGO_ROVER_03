@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LEGO_ROVER_01", "LEGO_ROVER_01.vcxproj", "{FE527630-FD07-4921-BE27-9EF81D25ABCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE527630-FD07-4921-BE27-9EF81D25ABCF}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{FE527630-FD07-4921-BE27-9EF81D25ABCF}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{FE527630-FD07-4921-BE27-9EF81D25ABCF}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{FE527630-FD07-4921-BE27-9EF81D25ABCF}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27674416-8721-4F2D-948B-04EBE925D8DF}
+	EndGlobalSection
+EndGlobal
